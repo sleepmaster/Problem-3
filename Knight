@@ -1,0 +1,1 @@
+So after spending some time on wiki looking at Knight's Tour page, I decided to use Matlab to program. I implemented Warnsdorff's algorithm and plotted 2 graphs. 1 was the linear graph and the other was the visual representation of the chessboard. 
